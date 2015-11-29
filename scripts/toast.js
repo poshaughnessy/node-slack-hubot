@@ -1,5 +1,5 @@
 // Description:
-//   answers question are you a robot
+//   answers question hello?
 //
 // Dependencies:
 //   None
@@ -8,7 +8,7 @@
 //   None
 //
 // Commands:
-//   hubot are you a robot?  - returns whether is it weekend or not
+//   hubot hello?  - returns a message about toast
 
 module.exports = function(robot) {
     robot.respond(/hello\s?\?/i, function(msg){

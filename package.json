@@ -1,8 +1,8 @@
 {
-  "name": "node-slack-hubot",
+  "name": "talkie-toaster-slack-bot",
   "version": "0.0.0",
   "private": true,
-  "description": "BeepBoop node slack hubut",
+  "description": "Talkie the Toaster Slack bot, made with BeepBoop, based on Hubot",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
